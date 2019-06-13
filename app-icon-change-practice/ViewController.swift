@@ -8,6 +8,8 @@
 
 import UIKit
 
+// https://qiita.com/ko-p/items/c99c44ad79c279084505
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
@@ -28,7 +30,7 @@ class ViewController: UIViewController {
 
         // Iconを動的に変更する
         // 変更したあとは、システムの確認ダイアログが表示される。
-        // iOS10.x以降の機能
+        // iOS10.3以降の機能
 
         // nilだとPrimaryのIconに変更
 //        UIApplication
